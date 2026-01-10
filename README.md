@@ -40,10 +40,15 @@ Electronics & Computer Science Student | Exploring Software Development & AI/ML
 ## 🚀 Projects
 
 ### 🏔️ Sikkim Monastery Digitization
-A web-based platform to digitize and manage **200+ monastery landmarks** with interactive map-based visualization.
+A web-based platform to digitize and manage **200+ monastery landmarks** with interactive **map-based visualization**.
 
-- 🔧 Tech: HTML, CSS, JavaScript  
-- 🎯 Focus: Data organization, usability, cultural preservation  
+- 🧩 Problem: Cultural and monastery data scattered across manual sources  
+- 🛠️ Tech Stack:  
+  - **Frontend:** HTML, CSS, JavaScript  
+  - **Backend:** Python (Django)  
+  - 🗺️ Mapping: Leaflet.js (for interactive maps and location markers)
+
+- 🎯 Focus: Data organization, geospatial visualization, usability  
 - 🏆 Context: Hackathon-based project (SIH-style)
 
 🔗 **Repository:**  
