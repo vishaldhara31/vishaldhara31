@@ -67,7 +67,7 @@ https://github.com/vishaldhara31/sikkim-monastery-digitization
   <a href="https://github.com/vishaldhara31">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/vishal-dhara-81b4a3348/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
