@@ -66,8 +66,27 @@ https://github.com/vishaldhara31/sikkim-monastery-digitization
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=vishaldhara31&theme=dark&hide_border=true)
+
+
+## 🔥 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vishaldhara31&show_icons=true&theme=dark&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=vishaldhara31&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldhara31&layout=compact&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
