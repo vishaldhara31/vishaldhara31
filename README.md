@@ -66,6 +66,11 @@ https://github.com/vishaldhara31/sikkim-monastery-digitization
 
 ---
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=vishaldhara31&theme=dark&hide_border=true)
+
+---
+
 ## 🌐 Connect With Me
 
 <p>
