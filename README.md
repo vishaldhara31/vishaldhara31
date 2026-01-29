@@ -67,29 +67,6 @@ https://github.com/vishaldhara31/sikkim-monastery-digitization
 ---
 
 
-## 🔥 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=vishaldhara31&show_icons=true&theme=dark&hide_border=true" />
-    </td>
-    <td align="center" width="50%">
-      <!-- <img src="https://streak-stats.demolab.com?user=vishaldhara31&theme=dark&hide_border=true" /> -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldhara31&layout=compact&langs_count=6&hide=HTML&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-  <!-- <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldhara31&layout=compact&langs_count=6&hide=HTML&theme=dark&hide_border=true" />
-    </td>
-  </tr> -->
-</table>
-
-
-
----
-
 ## 🌐 Connect With Me
 
 <p>
