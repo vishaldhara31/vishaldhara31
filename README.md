@@ -1,83 +1,143 @@
-<h1 align="center">Hi 👋, I'm Vishal Dhara</h1>
-<h3 align="center">
-Electronics & Computer Science Student | Exploring Software Development & AI/ML
-</h3>
+# Hi 👋, I'm Vishal Dhara
+
+### AI & Backend Developer | Python | FastAPI | Machine Learning | LLMs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20%26%20Backend-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-AI%20Applications-purple?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Electronics & Computer Science student from India  
-- 💡 Interested in **problem-solving, system thinking, and real-world applications**
-- 🤖 Exploring **AI/ML alongside software development**
-- 🛠️ Focused on building projects and strengthening fundamentals
-- 🌱 Learning in public and improving consistently
+- 🎓 B.Tech student in Electronics & Computer Science at **Pillai College of Engineering**.
+- 💻 AI and Backend Developer experienced in building AI-powered applications using **Python, FastAPI, and Django**.
+- 🤖 Skilled in LLM integration using **Hugging Face Transformers and Ollama**.
+- 🏆 National Hackathon Winner – **NEXUS AESCODE 2026**.
+- 🚀 Interested in **Agentic AI, AI Safety, LLM Evaluation, and reliable AI systems**.
+- 🌱 Constantly learning, experimenting, and building real-world solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+### 💻 Programming Languages
 
-### 🌐 Web
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### ⚙️ Backend Development
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
 
-## 🚀 Projects
+### 🤖 AI / Machine Learning
 
-### 🏔️ Sikkim Monastery Digitization
-A web-based platform to digitize and manage **200+ monastery landmarks** with interactive **map-based visualization**.
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
 
-- 🧩 Problem: Cultural and monastery data scattered across manual sources  
-- 🛠️ Tech Stack:  
-  - **Frontend:** HTML, CSS, JavaScript  
-  - **Backend:** Python (Django)  
-  - 🗺️ Mapping: Leaflet.js (for interactive maps and location markers)
+### 🌐 Frontend & Geospatial
 
-- 🎯 Focus: Data organization, geospatial visualization, usability  
-- 🏆 Context: Hackathon-based project (SIH-style)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
-🔗 **Repository:**  
-https://github.com/vishaldhara31/sikkim-monastery-digitization
+### 🔧 Tools & Technologies
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
-## 📚 Currently Working On
+## 🚀 Featured Projects
 
-- 📌 Data Structures & Algorithms  
-- 📌 Core programming fundamentals  
-- 📌 Exploring AI/ML concepts  
-- 📌 Building consistent GitHub activity  
-- 📌 Preparing for internships / entry-level roles
+### 🧠 1. EmoCare – AI-Powered Mental Health Support Platform
+
+- Developed an emotion-aware AI assistant using Python.
+- Integrated Hugging Face Transformers and Ollama-based LLMs.
+- Generated real-time wellness recommendations from text and voice inputs.
+- Engineered a FastAPI backend with PostgreSQL for AI inference, API handling, and backend automation.
+
+**Tech Stack:** Python | FastAPI | Hugging Face | Ollama | PostgreSQL
+
+🔗 **Repository:** [EmoCare](https://github.com/prem-03829/EmoCare)
 
 ---
 
+### 🏆 2. Kinetic AI – AI-Based Physiotherapy Feedback System
+
+🏅 **National MedTech Hackathon Winner – NEXUS AESCODE 2026**
+
+- Developed a real-time AI-based physiotherapy feedback system.
+- Implemented pose estimation, joint-angle calculations, and movement symmetry analysis.
+- Built a Python-based FastAPI backend with WebSockets for low-latency real-time streaming.
+- Integrated rehabilitation-specific logic for ACL, back, and shoulder exercises.
+- Implemented ROM-based progress analytics to track exercise performance.
+
+**Tech Stack:** Python | FastAPI | AI/ML | Pose Estimation | WebSockets
+
+---
+
+### 🌊 3. Ocean Forensics – AI-Powered Oil-Spill Detection & Vessel Forensics
+
+- Contributed to AI model development using PyTorch.
+- Worked with U-Net and ResNet18-based oil-spill segmentation on Sentinel-1 SAR satellite imagery.
+- Developed backend components using Python and FastAPI.
+- Integrated model inference, AIS vessel analysis, and spill-drift simulation.
+- Worked on geospatial data processing for oil-spill investigation.
+
+**Tech Stack:** Python | PyTorch | FastAPI | U-Net | ResNet18 | Sentinel-1 SAR | AIS Data
+
+---
+
+## 🏆 Achievements & Hackathons
+
+- 🥇 **NEXUS AESCODE 2026:** National MedTech Hackathon Winner – Segment Winner and Top 5 National Finalist.
+- 🚀 **Smart India Hackathon 2026:** Qualified for Round 2; shortlisted among the Top 45 teams at the institute level.
+
+---
+
+## 🎯 Areas of Interest
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Large Language Models (LLMs)
+- ⚡ Agentic AI
+- 🛡️ AI Safety & Reliable AI Systems
+- 📊 LLM Evaluation
+- ⚙️ Backend Engineering & API Development
+
+---
+
+## 🎓 Education
+
+**B.Tech – Electronics & Computer Science**
+
+Pillai College of Engineering, Navi Mumbai
+
+---
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://github.com/vishaldhara31">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vishal-dhara-81b4a3348/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+<p align="left">
+<a href="https://github.com/vishaldhara31">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vishal-dhara-81b4a3348/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:vishaldhara596@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
 
-⭐ *Curious learner. Project-driven. Growing step by step.*
+⭐ *Building intelligent systems. Solving real-world problems. Learning and growing every day.*
