@@ -59,7 +59,49 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 1. EmoCare – AI-Powered Mental Health Support Platform
+### 🔐 1. SIEM Authentication & Identity Monitoring System
+
+- Developed a modular Windows authentication monitoring system to collect, parse, normalize, and enrich Windows Security Event Logs.
+- Implemented stateful threat detection and correlation for brute-force attacks, password spraying, Golden Ticket, Kerberoasting, and MFA Fatigue indicators.
+- Integrated Apache Kafka for real-time security event streaming using Producer-Consumer architecture.
+- Built an event enrichment pipeline incorporating device, identity, and IP geolocation context.
+- Developed an interactive dashboard to visualize authentication events, critical alerts, and monitoring statistics.
+- Implemented automated validation covering **80 test scenarios and 4,000+ assertions**.
+
+**Tech Stack:** Python | Windows APIs (pywin32) | Apache Kafka | JSON | HTML | CSS | JavaScript
+
+🔗 **Repository:** [SIEM Authentication & Identity Monitoring System](https://github.com/Jesniiiii/siem-pipeline)
+
+---
+
+### 🏆 2. Kinetic AI – AI-Based Physiotherapy Feedback System
+
+- Developed an AI-powered physiotherapy feedback system using real-time pose estimation and joint-angle calculations.
+- Implemented movement symmetry analysis and rehabilitation progress tracking.
+- Built backend services using FastAPI and WebSockets for real-time feedback.
+- Integrated rehabilitation logic for ACL, back, and shoulder recovery with range-of-motion analytics.
+- **Achievement:** National Hackathon Winner – NEXUS AESCODE 2026 (Segment Winner & Top 5 National Finalist).
+
+**Tech Stack:** Python | AI/ML | Computer Vision | FastAPI | WebSockets
+
+🔗 **Repository:** [Kinetic AI – Nexus Project](https://github.com/Hazardo911/Nexus-Project1)
+
+---
+
+### 🌊 3. Ocean Forensics – AI-Powered Oil Spill Detection & Vessel Forensics
+
+- Collaborative SIH 2026 project focused on detecting oil spills using satellite imagery and correlating AIS vessel data to identify potentially responsible vessels.
+- Contributed to **backend development and ML model implementation** for AI-based oil spill detection.
+- Worked on integrating the detection model with geospatial analysis, AIS data correlation, and oil spill drift simulation.
+- Focused on connecting machine learning predictions with backend APIs and the overall detection pipeline.
+
+**Tech Stack:** Python | PyTorch | U-Net | ResNet18 | FastAPI | Sentinel-1 SAR | AIS Data | Geospatial Analysis
+
+🔗 **Repository:** [Ocean Forensics – SIH 2026](https://github.com/prem-03829/SIH-2026-PS-26143)
+
+---
+
+### 🧠 4. EmoCare – AI-Powered Mental Health Support Platform
 
 - Developed an emotion-aware AI assistant using Python.
 - Integrated Hugging Face Transformers and Ollama-based LLMs.
@@ -69,52 +111,6 @@
 **Tech Stack:** Python | FastAPI | Hugging Face | Ollama | PostgreSQL
 
 🔗 **Repository:** [EmoCare](https://github.com/prem-03829/EmoCare)
-
----
-
-### 🏆 2. Kinetic AI – AI-Based Physiotherapy Feedback System
-
-🏅 **National MedTech Hackathon Winner – NEXUS AESCODE 2026**
-
-- Developed a real-time AI-based physiotherapy feedback system.
-- Implemented pose estimation, joint-angle calculations, and movement symmetry analysis.
-- Built a Python-based FastAPI backend with WebSockets for low-latency real-time streaming.
-- Integrated rehabilitation-specific logic for ACL, back, and shoulder exercises.
-- Implemented ROM-based progress analytics to track exercise performance.
-
-**Tech Stack:** Python | FastAPI | AI/ML | Pose Estimation | WebSockets
-
----
-
-### 🌊 3. Ocean Forensics – AI-Powered Oil-Spill Detection & Vessel Forensics
-
-- Contributed to AI model development using PyTorch.
-- Worked with U-Net and ResNet18-based oil-spill segmentation on Sentinel-1 SAR satellite imagery.
-- Developed backend components using Python and FastAPI.
-- Integrated model inference, AIS vessel analysis, and spill-drift simulation.
-- Worked on geospatial data processing for oil-spill investigation.
-
-**Tech Stack:** Python | PyTorch | FastAPI | U-Net | ResNet18 | Sentinel-1 SAR | AIS Data
-
----
-
-### 🔐 4. SIEM Authentication & Identity Monitoring System
-
-- Developed a modular Windows authentication monitoring system to collect, parse, normalize, and enrich Windows Security Event Logs.
-- Implemented stateful threat detection and correlation mechanisms for detecting brute-force attacks, password spraying, Golden Ticket, Kerberoasting, Pass-the-Hash, and MFA Fatigue indicators.
-- Integrated Apache Kafka for real-time security event streaming using Producer-Consumer architecture.
-- Built an event enrichment pipeline incorporating device fingerprints, identity context, and IP geolocation.
-- Developed an interactive security dashboard to visualize authentication events, security alerts, and monitoring statistics.
-- Implemented automated validation covering **80 test scenarios and over 4,000 assertions**.
-
-**Tech Stack:** Python | Windows APIs (pywin32) | Apache Kafka | JSON | HTML | CSS | JavaScript | Geolocation
-
-🔗 **Repository:** [SIEM Authentication & Identity Monitoring System](YOUR_GITHUB_REPOSITORY_LINK)
-
-## 🏆 Achievements & Hackathons
-
-- 🥇 **NEXUS AESCODE 2026:** National MedTech Hackathon Winner – Segment Winner and Top 5 National Finalist.
-- 🚀 **Smart India Hackathon 2026:** Qualified for Round 2; shortlisted among the Top 45 teams at the institute level.
 
 ---
 
@@ -140,15 +136,15 @@ Pillai College of Engineering, Navi Mumbai
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/vishaldhara31">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/vishal-dhara-81b4a3348/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:vishaldhara596@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://github.com/vishaldhara31">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-dhara-81b4a3348/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vishaldhara596@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
