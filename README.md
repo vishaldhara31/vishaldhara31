@@ -57,6 +57,24 @@
 
 ---
 
+## 💼 Professional Experience
+
+### 🔐 Cyber Analyst Intern | DeepCytes Cyber Labs, UK
+
+**May 2026 – July 2026**
+
+- Worked on developing a Windows Authentication Monitoring System for security event collection and analysis.
+- Worked with Windows Security Event Logs to monitor and analyze authentication activities.
+- Contributed to detecting suspicious authentication patterns and potential identity-based attacks.
+- Explored SIEM concepts, security event processing, and threat detection techniques.
+- Gained practical experience in cybersecurity monitoring and authentication security.
+
+**Technologies:** Python | Windows Security Event Logs | SIEM | Cybersecurity | Authentication Monitoring
+
+🔗 **Project Repository:** [SIEM Authentication & Identity Monitoring System](https://github.com/Jesniiiii/siem-pipeline)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔐 1. SIEM Authentication & Identity Monitoring System
