@@ -98,6 +98,19 @@
 
 ---
 
+### 🔐 4. SIEM Authentication & Identity Monitoring System
+
+- Developed a modular Windows authentication monitoring system to collect, parse, normalize, and enrich Windows Security Event Logs.
+- Implemented stateful threat detection and correlation mechanisms for detecting brute-force attacks, password spraying, Golden Ticket, Kerberoasting, Pass-the-Hash, and MFA Fatigue indicators.
+- Integrated Apache Kafka for real-time security event streaming using Producer-Consumer architecture.
+- Built an event enrichment pipeline incorporating device fingerprints, identity context, and IP geolocation.
+- Developed an interactive security dashboard to visualize authentication events, security alerts, and monitoring statistics.
+- Implemented automated validation covering **80 test scenarios and over 4,000 assertions**.
+
+**Tech Stack:** Python | Windows APIs (pywin32) | Apache Kafka | JSON | HTML | CSS | JavaScript | Geolocation
+
+🔗 **Repository:** [SIEM Authentication & Identity Monitoring System](YOUR_GITHUB_REPOSITORY_LINK)
+
 ## 🏆 Achievements & Hackathons
 
 - 🥇 **NEXUS AESCODE 2026:** National MedTech Hackathon Winner – Segment Winner and Top 5 National Finalist.
